@@ -1,0 +1,56 @@
+body {
+    color: white;
+    background-color: rgb(6, 4, 39);
+    
+}
+#discord {
+    border-radius: 25px;
+    background-color: #7289da;
+}
+.topleft {
+    border: 2px hidden;
+    height: 75px;
+    overflow: auto;
+    margin-right: 25%;
+
+}
+
+.toppage{
+    border: 2px hidden;
+    height: 75px;
+    overflow: auto;
+    margin: auto;
+}
+.topright {
+    border: 2px hidden;
+    height: 75px;
+    overflow: auto;
+    margin-left: 25%;
+
+}
+
+main {
+    text-align: center;
+}
+#title {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+#sum1 {
+    display: block;
+}
+
+#sum2 {
+    display: block;
+}
+
+#sum3 {
+    display: block;
+}
+
+#sum4 {
+    display: block;
+}
+
+

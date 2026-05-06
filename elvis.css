@@ -1,0 +1,32 @@
+body{
+    background-color: #d4bc9c;
+}
+
+header {
+    background-color: #aa4c64;
+    border: #5e303c dashed;
+}
+
+
+#main {
+    background-color: #aa4c64;
+    border: #5e303c dashed;
+}
+
+#lyr {
+    background-color: #aa4c64;
+    border: #5e303c dashed;
+
+}
+
+button {
+    border-radius: 25px; 
+    background-color: #f4c41a; 
+    color: black; 
+    font-size: 15px;
+}
+
+audio {
+    border-radius: 25px; 
+    background-color: #f4c41a; 
+}
