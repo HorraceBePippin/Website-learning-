@@ -1,0 +1,10 @@
+h1 {
+    text-shadow: 1px 1px 5px hsl(0, 100%, 50%), -1px -1px 5px hsl(221, 100%, 50%) ;
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(0, 19%, 88%);
+    box-shadow: 3px 3px 5px ;
+}

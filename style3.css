@@ -1,0 +1,21 @@
+@font-face {
+    src: url(fonts/fonts/RobotoFlex-VariableFont_GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf);
+    font-family: "Roboto Flex";
+}
+@font-face {
+    src: url(fonts/PlaywriteNZGuides-Regular.ttf);
+    font-family: "Playwrite";
+}
+
+
+
+h1{
+    font-family: "Roboto Flex", arial;
+}
+
+p{
+    font-family: "Playwrite", "courier new", monospace;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
